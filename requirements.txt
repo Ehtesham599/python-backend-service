@@ -1,0 +1,6 @@
+flask
+pydantic
+requests
+pytest
+python-dotenv
+httpx
