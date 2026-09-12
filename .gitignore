@@ -36,7 +36,7 @@ wheels/
 *.egg
 
 # IDEs and Editors
-.vscode/
+#.vscode/
 .idea/
 *.swp
 *.swo
